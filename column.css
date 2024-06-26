@@ -1,0 +1,48 @@
+.loveYouCoffee {
+  background-color: blueviolet;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.cappuccino {
+  background-color: rgb(34, 243, 201);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.mochaCoffee {
+  background-color: rgb(224, 13, 175);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.frappuccino {
+  background-color: rgb(46, 10, 166);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.blackCoffee {
+  background-color: #65858b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.loveHeartCoffee {
+  background-color: rgb(62, 9, 44);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.loveYouCoffeeCardBody {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
